@@ -3,5 +3,6 @@
 Ubuntu-Cloud-Network-Agent.sh filter=lfs diff=lfs merge=lfs -text
 NessusAgent-11.1.2-x64.msi filter=lfs diff=lfs merge=lfs -text
 FalconSensor_Windows.exe filter=lfs diff=lfs merge=lfs -text
+FortiClientVPNInstaller filter=lfs diff=lfs merge=lfs -text
 GTBEndpointAgent+Networking-16.5.2-64093.TCP(2).msi filter=lfs diff=lfs merge=lfs -text
 *.msi filter=lfs diff=lfs merge=lfs -text
