@@ -16,3 +16,4 @@ FalconSensor_Windows-8.11 filter=lfs diff=lfs merge=lfs -text
 =======
 >>>>>>> 098a46bc25846e3e4713de07df8e4b3f166c33f9
 FalconSensor_Windows-8.11.exe filter=lfs diff=lfs merge=lfs -text
+falcon-sensor_8.10.0-19403_amd64.deb filter=lfs diff=lfs merge=lfs -text
